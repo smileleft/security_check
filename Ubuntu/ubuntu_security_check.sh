@@ -3,7 +3,7 @@
 # 로그 파일 설정
 LOG_FILE="./security_check_report_$(date +%Y%m%d_%H%M%S).log"
 echo "==================================================" | tee -a "$LOG_FILE"
-echo "  Ubuntu 24.04 기본 보안 점검 스크립트" | tee -a "$LOG_FILE"
+echo "  Ubuntu 기본 보안 점검 스크립트" | tee -a "$LOG_FILE"
 echo "  실행 시간: $(date)" | tee -a "$LOG_FILE"
 echo "  로그 파일: $LOG_FILE" | tee -a "$LOG_FILE"
 echo "==================================================" | tee -a "$LOG_FILE"
