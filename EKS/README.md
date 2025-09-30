@@ -4,6 +4,7 @@
 
 ```
 jq
+AWS CLI
 ```
 
 ## How to
