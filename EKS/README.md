@@ -1,5 +1,11 @@
 # AWS EKS security check
 
+## Pre install
+
+```
+jq
+```
+
 ## How to
 
 ```
