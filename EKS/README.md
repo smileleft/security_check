@@ -3,8 +3,12 @@
 ## Pre install
 
 ```
-jq
-AWS CLI
+# jq
+sudo apt update
+suao apt instasll jq
+jq --version
+
+#AWS CLI
 ```
 
 ## How to
